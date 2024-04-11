@@ -1,0 +1,6 @@
+[submodule "20240411_Day13_Git/Yongdam/yeardream_04"]
+	path = 20240411_Day13_Git/Yongdam/yeardream_04
+	url = https://github.com/ieyeppo/yeardream_04.git
+[submodule "20240411_Day13_Git/yeardream_04"]
+	path = 20240411_Day13_Git/yeardream_04
+	url = https://github.com/ieyeppo/yeardream_04.git
