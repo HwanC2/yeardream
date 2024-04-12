@@ -4,3 +4,6 @@
 [submodule "20240411_Day13_Git/yeardream_04"]
 	path = 20240411_Day13_Git/yeardream_04
 	url = https://github.com/ieyeppo/yeardream_04.git
+[submodule "team_project"]
+	path = team_project
+	url = https://github.com/Hwan2222/OnlineT_9.git
